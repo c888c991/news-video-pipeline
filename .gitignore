@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 密钥（绝不提交）
+.env
+.env.*
+*.key
+secrets.*
+
+# 日志
+*.log
+
+# 媒体素材与渲染产物
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.m4a
+_stock/
+_merged/
+_composed_news/
+_narration/
+_data/
+_test_assets/
+_tanchuang_test/
+
+# 生成的分镜计划
+plan*.json
+req*.txt
